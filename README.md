@@ -1,4 +1,4 @@
-# Desafio do Felipão &nbsp;🚀
+# Desafio do Felipão &nbsp;🚀 Classificador de Nível de Herói.
 
 Bem-vindo ao repositório **Desafio do Felip-o**!  
 Aqui você encontrará o desafio proposto com foco em desenvolvimento, criatividade e colaboração.  
