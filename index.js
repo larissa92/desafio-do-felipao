@@ -15,8 +15,7 @@ if (xp < 1000) {
     nivel = "Ouro";
 } else if (xp >= 7001 && xp <= 8000) {
     nivel = "Platina";
-} else if (xp >= 8001 && xp <= 9000) {
-    nivel = "Ascendente";
+git    nivel = "Ascendente";
 } else if (xp >= 9001 && xp <= 10000) {
     nivel = "Imortal";
 } else if (xp >= 10001) {
